@@ -1,2 +1,2 @@
 # testing-in-mocha
-Testing controller in mocha with chai
+Testing controller in mocha chai
